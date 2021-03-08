@@ -1,0 +1,5 @@
+GeorgeB-member,open123,George,Benjamin,M,gwbenjmin@gmail.com,12/22/1920,Christian,frankness,0
+JoeB-member,open123,Joe,Bloggs,M,jblogs@gmail.com,22/44/32,Christian,patience,15
+FishS-member,open123,Joe,Bloggs,M,jblogs@gmail.com,22/44/32,Christian,laidback,13
+KaraG-member,open123,Joe,Bloggs,F,jblogs@gmail.com,22/44/32,Christian,leadership,22
+JohnM-member,open123,Jonathan,Martin,M,jblogs@gmail.com,22/44/32,Christian,patience,7
